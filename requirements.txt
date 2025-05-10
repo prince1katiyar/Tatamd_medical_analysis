@@ -1,0 +1,10 @@
+
+streamlit
+langchain
+langchain-openai
+langchain-community
+chromadb
+pypdf
+duckduckgo-search
+python-dotenv
+reportlab 
