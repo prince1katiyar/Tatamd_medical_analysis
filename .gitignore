@@ -33,7 +33,7 @@ env.bak
 venv.bak
 chroma_db/
 # Streamlit
-.streamlit/
+
 
 # ChromaDB
 medical_rag_chatbot/chroma_db/
