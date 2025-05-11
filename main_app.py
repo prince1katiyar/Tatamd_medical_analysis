@@ -9,6 +9,13 @@ import re
 from datetime import datetime
 import json
 
+
+import sqlite3
+import streamlit as st
+
+st.write(f"SQLite version: {sqlite3.sqlite_version}")
+
+
 # --- Define SCRIPT_DIR, ASSETS_DIR, DATA_DIR first for robustness ---
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ASSETS_DIR = os.path.join(SCRIPT_DIR, "assets")
