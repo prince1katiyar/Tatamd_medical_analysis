@@ -31,7 +31,7 @@ ENV/
 env/
 env.bak
 venv.bak
-chroma_db/
+
 # Streamlit
 
 
