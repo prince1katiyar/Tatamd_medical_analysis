@@ -1,0 +1,7 @@
+# .streamlit/config.toml
+[theme]
+primaryColor="#005A9C"
+backgroundColor="#DDE4EB"         # Main background
+secondaryBackgroundColor="#EDF2F7" # For cards, expanders, sidebar
+textColor="#333333"
+font="sans serif"
