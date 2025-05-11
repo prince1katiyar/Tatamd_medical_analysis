@@ -9,6 +9,7 @@ python-dotenv
 duckduckgo-search
 
 langchain_chroma
+protobuf==4.21.12
 
 streamlit
 langchain
