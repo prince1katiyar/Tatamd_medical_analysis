@@ -1,7 +1,7 @@
 # Core Libraries
 numpy==1.26.4
 pandas==2.2.3
-python-dotenv==0.19.2
+
 protobuf==4.21.12
 pydantic==2.7.4
 
